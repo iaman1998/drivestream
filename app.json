@@ -4,7 +4,7 @@
 	"repository": "https://github.com/iaman1998/drivestream",
 	"keywords": ["drivestream"],
 	"env": {
-		"CLIENT ID": {
+		"CLIENT_ID": {
 			"description": "None",
       "required": true
 		},
