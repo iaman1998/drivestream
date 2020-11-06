@@ -32,3 +32,6 @@ Once it has found all the items (or before, it still works), click "Refresh Meta
 2. Better library creation process
 
 This whole thing is still a bit janky. Give me a shout in the Issues for new feature requests.
+
+## Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iaman1998/drivestream/tree/master)
