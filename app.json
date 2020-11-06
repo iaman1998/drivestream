@@ -1,0 +1,21 @@
+{
+	"name": "Drive Stream",
+	"description": "None",
+	"repository": "https://github.com/iaman1998/drivestream",
+	"keywords": ["drivestream"],
+	"env": {
+		"CLIENT ID": {
+			"description": "None",
+      "required": true
+		},
+		"API": {
+			"description": "None",
+      "required": true
+		}
+	},
+	"buildpacks": [
+		{
+			"url": "heroku/nodejs"
+		}
+	]
+}
